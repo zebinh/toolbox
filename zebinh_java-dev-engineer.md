@@ -1,7 +1,7 @@
 # 联系方式
 
 + 手机：135xxxx
-+ Email：huangzebin427@gmail.com
++ Email：xxx@gmail.com
 + 微信：xxx
 
 # 个人信息
